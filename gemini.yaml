@@ -15,5 +15,6 @@ payload:
   - DOMAIN-SUFFIX,clients4.google.com
   - DOMAIN,lh3.google.com
   - DOMAIN,play.google.com
-  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN,www.google-analytics.com
+  - DOMAIN,www.googletagmanager.com
   - DOMAIN,accounts.google.com
